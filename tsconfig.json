@@ -1,0 +1,3 @@
+{
+  "extends": "@niketcom/config/tsconfig.base.json"
+}

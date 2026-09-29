@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "better-t-stack": {
+      "command": "bunx",
+      "args": ["create-better-t-stack@latest", "mcp"]
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"]
+    },
+    "svelte": {
+      "url": "https://mcp.svelte.dev/mcp"
+    },
+    "better-auth": {
+      "url": "https://mcp.better-auth.com/mcp"
+    }
+  }
+}
